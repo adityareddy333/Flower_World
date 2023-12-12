@@ -1,0 +1,16 @@
+/* Navbar.css */
+.navbar-light-pink {
+    background-color: rgb(8, 9, 0);
+   
+  }
+  /* src/style/Navbar.css */
+
+.nav-link {
+  position: relative;
+  transition: transform 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+  transform: translateY(-5px); /* You can adjust the amount of movement */
+}
+
